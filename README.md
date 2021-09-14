@@ -1,6 +1,25 @@
 # Portfolio-App
 
-## Getting Started with Create React App
+
+## Demo version
+</br>
+A demo version is automatically deployed for this repositories:
+
+- Deployment for backend part - [https://todo-eshika.herokuapp.com/](https://todo-eshika.herokuapp.com/) 🔥
+
+
+## Technology Stack 
+</br>
+Please get familiar with the components of the project in order to be able to contribute. 🤑
+
+### components
+- CSS: Styling web pages, html files
+- Javascript: Primary programing language
+- Reactjs: used in frontend
+- reactLottie: used for animated icons 
+- reactaos: used for animated works
+
+## Getting Started with Create React App 🎉
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -40,5 +59,12 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+
+## Contributing
+
+> Feel free to **contribute** 😍
+- When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change."# portfolio-app " 
+
 
 
