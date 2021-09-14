@@ -5,7 +5,7 @@
 </br>
 A demo version is automatically deployed for this repositories:
 
-- Deployment for backend part - [https://stupefied-lichterman-1851f6.netlify.app/](https://stupefied-lichterman-1851f6.netlify.app/) 🔥
+- Deployment for frontend part - [https://stupefied-lichterman-1851f6.netlify.app/](https://stupefied-lichterman-1851f6.netlify.app/) 🔥
 
 
 ## Technology Stack 
