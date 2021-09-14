@@ -5,7 +5,7 @@
 </br>
 A demo version is automatically deployed for this repositories:
 
-- Deployment for backend part - [https://todo-eshika.herokuapp.com/](https://todo-eshika.herokuapp.com/) 🔥
+- Deployment for backend part - [https://stupefied-lichterman-1851f6.netlify.app/](https://stupefied-lichterman-1851f6.netlify.app/) 🔥
 
 
 ## Technology Stack 
@@ -64,7 +64,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Contributing
 
 > Feel free to **contribute** 😍
-- When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change."# portfolio-app " 
+- When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change."#portfolio-app " 
 
 
 
